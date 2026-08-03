@@ -1,0 +1,6 @@
+{
+  "name": "RuralConnect AI - Remote Classroom",
+  "description": "Low-bandwidth remote classroom platform connecting rural colleges with urban partner institutions, featuring adaptive video, offline note sync, regional captions, and AI lecture summaries.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
